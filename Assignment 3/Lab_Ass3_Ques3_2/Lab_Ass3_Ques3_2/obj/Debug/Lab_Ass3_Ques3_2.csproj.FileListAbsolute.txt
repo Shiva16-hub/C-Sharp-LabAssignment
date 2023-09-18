@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\Lab_Ass3_Ques3_2\Lab_Ass3_Ques3_2\obj\Debug\Lab_Ass3_Ques3_2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Lab_Ass3_Ques3_2\Lab_Ass3_Ques3_2\obj\Debug\Lab_Ass3_Ques3_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Lab_Ass3_Ques3_2\Lab_Ass3_Ques3_2\obj\Debug\Lab_Ass3_Ques3_2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Lab_Ass3_Ques3_2\Lab_Ass3_Ques3_2\bin\Debug\Lab_Ass3_Ques3_2.exe.config
+C:\Users\hp\source\repos\Lab_Ass3_Ques3_2\Lab_Ass3_Ques3_2\bin\Debug\Lab_Ass3_Ques3_2.exe
+C:\Users\hp\source\repos\Lab_Ass3_Ques3_2\Lab_Ass3_Ques3_2\bin\Debug\Lab_Ass3_Ques3_2.pdb
+C:\Users\hp\source\repos\Lab_Ass3_Ques3_2\Lab_Ass3_Ques3_2\bin\Debug\Lab_Ass3_Ques3_1.exe
+C:\Users\hp\source\repos\Lab_Ass3_Ques3_2\Lab_Ass3_Ques3_2\bin\Debug\Lab_Ass3_Ques3_1.pdb
+C:\Users\hp\source\repos\Lab_Ass3_Ques3_2\Lab_Ass3_Ques3_2\obj\Debug\Lab_Ass3_Ques3_2.csproj.CopyComplete
+C:\Users\hp\source\repos\Lab_Ass3_Ques3_2\Lab_Ass3_Ques3_2\obj\Debug\Lab_Ass3_Ques3_2.exe
+C:\Users\hp\source\repos\Lab_Ass3_Ques3_2\Lab_Ass3_Ques3_2\obj\Debug\Lab_Ass3_Ques3_2.pdb
