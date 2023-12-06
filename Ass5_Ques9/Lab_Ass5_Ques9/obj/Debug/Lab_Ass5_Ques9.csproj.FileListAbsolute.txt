@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\Lab_Ass5_Ques9\Lab_Ass5_Ques9\bin\Debug\Lab_Ass5_Ques9.exe.config
+C:\Users\hp\source\repos\Lab_Ass5_Ques9\Lab_Ass5_Ques9\bin\Debug\Lab_Ass5_Ques9.exe
+C:\Users\hp\source\repos\Lab_Ass5_Ques9\Lab_Ass5_Ques9\bin\Debug\Lab_Ass5_Ques9.pdb
+C:\Users\hp\source\repos\Lab_Ass5_Ques9\Lab_Ass5_Ques9\obj\Debug\Lab_Ass5_Ques9.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Lab_Ass5_Ques9\Lab_Ass5_Ques9\obj\Debug\Lab_Ass5_Ques9.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Lab_Ass5_Ques9\Lab_Ass5_Ques9\obj\Debug\Lab_Ass5_Ques9.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Lab_Ass5_Ques9\Lab_Ass5_Ques9\obj\Debug\Lab_Ass5_Ques9.exe
+C:\Users\hp\source\repos\Lab_Ass5_Ques9\Lab_Ass5_Ques9\obj\Debug\Lab_Ass5_Ques9.pdb
